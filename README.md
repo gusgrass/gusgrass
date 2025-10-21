@@ -4,7 +4,7 @@ I'm kinda *new* to GitHub, but I hope, by the time you read this, there will alr
 
 ***AWESOME NEW*** projects and repos on my profile.
 
-If not then oh well ¯\_(ツ)_/¯...
+If not then oh well ¯\\\_(ツ)\_/¯...
 
 
 - 🌱 I’m currently learning Neural Network development and other AI thingamajigs.
